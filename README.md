@@ -1,4 +1,9 @@
 <h1>Austin BCycle Station Analysis</h1>
+    <p> Files included: 
+    <ul>
+        <li>Python Jupyter Notebook: contains the full code and visualizations for data cleaning, wrangling, analysis, visualization, and predictive modeling.</li>
+        <li>Slide Deck: Presentation of the project in powerpoint form</li>
+        </ul></p>
     <p> Data is pulled from data.world in March 2020, and collected from weatherunderground and AustinBcycle in April-May 2016</p>
     <h2>Primary Goal</h2>
     <p>A cycle station can either be categorized as <b>active</b> or <b>inactive</b> depending on the number of bikes or docks available at a given time. When a station is considered INACTIVE, it is in one of two possible states:</p>
